@@ -5,6 +5,7 @@ This challenge is to simulate toy robots moving on a 6x6 square board, the robot
 ## Instructions
 
 To run the Toy Robot App, first generate a CSV file in the following format:
+
 NAME,ACTION,X,Y,F
 ALICE,PLACE,0,0,NORTH
 ALICE,MOVE
